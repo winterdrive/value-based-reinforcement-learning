@@ -1,0 +1,15 @@
+torch>=2.0.0
+gymnasium>=0.29.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+ale-py>=0.8.0
+autorom[accept-rom-license]>=0.4.2
+
+# Optional dependencies for enhanced features
+tqdm>=4.62.0
+wandb>=0.12.0
+
+# For video recording
+moviepy>=1.0.3
+imageio>=2.9.0
